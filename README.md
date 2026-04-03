@@ -14,4 +14,5 @@ Comparing Agile versus Waterfall Project Management - https://github.com/shawnla
 
 Project Management with Jira Cloud 1 Projects Boards and Issues - https://github.com/shawnlatta-lab/SimpleCertifications/blob/main/CertificateOfCompletion_Comparing%20Agile%20versus%20Waterfall%20Project%20Management.pdf
 
+Agile Foundations - https://github.com/shawnlatta-lab/SimpleCertifications/blob/main/CertificateOfCompletion_Agile%20Foundations.pdf
 
