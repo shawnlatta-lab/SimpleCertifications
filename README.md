@@ -16,3 +16,4 @@ Project Management with Jira Cloud 1 Projects Boards and Issues - https://github
 
 Agile Foundations - https://github.com/shawnlatta-lab/SimpleCertifications/blob/main/CertificateOfCompletion_Agile%20Foundations.pdf
 
+
