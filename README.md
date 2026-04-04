@@ -12,6 +12,7 @@ A repository for simple certifications.
 <ul><li><a href="https://github.com/shawnlatta-lab/SimpleCertifications/blob/main/CertificateOfCompletion_Agile%20Foundations.pdf">Agile Foundations</a></li>
     <li><a href="https://github.com/shawnlatta-lab/SimpleCertifications/blob/main/CertificateOfCompletion_Comparing%20Agile%20versus%20Waterfall%20Project%20Management.pdf">Comparing Agile versus Waterfall Project Management</a></li>
     <li><a href="https://github.com/shawnlatta-lab/SimpleCertifications/blob/main/CertificateOfCompletion_Comparing%20Agile%20versus%20Waterfall%20Project%20Management.pdf">Project Management with Jira Cloud 1 Projects Boards and Issue</a></li>
+    <li><a href="https://github.com/shawnlatta-lab/SimpleCertifications/blob/main/CertificateOfCompletion_Human%20Resources%20Understanding%20HR%20Systems%20Features%20and%20Benefits.pdf">Human Resources Understanding HR Systems Features and Benefits</a></li>
 </ul>
 
 **Scrum issued certifications**
