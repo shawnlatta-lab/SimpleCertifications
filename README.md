@@ -24,6 +24,7 @@ Human Resources
 <ul> 
     <li><a href="https://github.com/shawnlatta-lab/SimpleCertifications/blob/main/CertificateOfCompletion_Human%20Resources%20Compensation%20and%20Benefits%20for%20the%20US.pdf">Human Resources: Compensation and Benefits for the US</a></li>
     <li><a href="https://github.com/shawnlatta-lab/SimpleCertifications/blob/main/CertificateOfCompletion_Human%20Resources%20Understanding%20HR%20Systems%20Features%20and%20Benefits.pdf">Human Resources Understanding HR Systems Features and Benefits</a></li>
+    <li><a href="https://github.com/shawnlatta-lab/SimpleCertifications/blob/main/CertificateOfCompletion_HR%20Errors%20That%20Can%20Harm%20Your%20Company%20Culture.pdf">HR Errors That Can Harm Your Company Cultures</a></li>
     
 </ul>
 
